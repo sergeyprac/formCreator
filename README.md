@@ -1,6 +1,6 @@
 # FormCreator
 
-![Background image](https://github.com/sergeyprac/formCreator/blob/master/Images/5.png)
+![Background image](images/back.png)
 
 Лабораторная работа по распознаванию печатного текста.
 ## Введение. Цель проекта.
