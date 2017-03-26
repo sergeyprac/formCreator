@@ -1,5 +1,5 @@
 # formCreator
-![Баннер](https://github.com/sergeyprac/formCreator/blob/master/Images/5.png)
+![Баннер](https://github.com/sergeyprac/formCreator/blob/master/Images/5.jpg)
 # Техническое задание
 
 ## Цель проекта. Рыночная ниша
