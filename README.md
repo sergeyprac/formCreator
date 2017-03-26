@@ -1,6 +1,6 @@
-# Lab_TextRec
+# FormCreator
 
-![Background image](images/back.png)
+![Баннер](https://github.com/sergeyprac/formCreator/blob/master/Images/5.png)
 
 Лабораторная работа по распознаванию печатного текста.
 ## Введение. Цель проекта.
